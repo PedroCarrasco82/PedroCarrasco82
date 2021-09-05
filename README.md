@@ -1,8 +1,3 @@
-
-<p align="center">
-    <img width="200px" src="https://avatars.githubusercontent.com/u/54483719?v=4" style="border-radius: 50%;" align="center" alt="GitHub Readme Stats" />
-</p>
-
 # Olá, eu sou o Pedro! 👋
 Tenho 20 anos e sou estudante de Ciências da Computação, atualmente com maior proficiência em desenvolvimento back-end, porém, entusiasmado na área de dados e sempre buscando conhecimento para cada área da computação.
 <hr />
