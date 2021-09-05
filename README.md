@@ -28,10 +28,10 @@ Tenho 20 anos e sou estudante de Ciências da Computação, atualmente com maior
 ## 📈 Github stats
 <p align="center">
     <a href="https://github.com/PedroCarrasco82">
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocarrasco82&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars&border_color=bf91f3" alt="Pedro's GitHub stats"/>
+        <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocarrasco82&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars&border_color=bf91f3" alt="Pedro's GitHub stats"/>
     </a>
     <a href="https://github.com/PedroCarrasco82">
-        <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarrasco82&theme=tokyonight&layout=compact&hide=ruby,html,swift,kotlin,objective-c&border_color=bf91f3" alt="Pedro's top langs"/>
+        <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarrasco82&theme=tokyonight&layout=compact&hide=ruby,html,swift,kotlin,objective-c&border_color=bf91f3" alt="Pedro's top langs"/>
     </a>
 </p>
 
