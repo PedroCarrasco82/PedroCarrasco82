@@ -1,5 +1,5 @@
 # Olá, eu sou o Pedro! 👋
-Tenho 20 anos e sou estudante de Ciências da Computação, atualmente com maior proficiência em desenvolvimento back-end, porém, entusiasmado na área de dados e sempre buscando conhecimento para cada área da computação.
+Tenho 21 anos e sou estudante de Ciências da Computação, atualmente com maior proficiência em desenvolvimento back-end, porém, entusiasmado na área de dados e sempre buscando conhecimento para cada área da computação.
 <hr />
 
 ## 🛠 Principais Tecnologias 
